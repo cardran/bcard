@@ -1,3 +1,8 @@
 added username,email
 updated on 9-7-20
 reset revert
+soft---commit deleted, file changes into staged area
+mix----commit deleted, file changes into unstaged area
+hard----commit and also file deleted.
+
+forceful update
